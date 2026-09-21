@@ -1,3 +1,3 @@
 # Understanding Content Management Systems (CMS)
-# WHAT
-A **Content Management System (CMS)** is a software application that allows users to create, manage, and modify website content without needing specialized technical knowledge. Instead of writing raw HTML, CSS, and JavaScript from scratch, a CMS provides a user-friendly interface to handle backend infrastructure, database queries, and asset management. 
+
+Open the WHAT, WHY, WHO and WHICH files to know more about content management systems
